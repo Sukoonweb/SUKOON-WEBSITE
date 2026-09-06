@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sukoon-wellness.netlify.app/sitemap.xml
